@@ -6,6 +6,7 @@ body {
 
 .main_container {
  max-width: 100%;
+ margin: 0 auto;
 }
 
 .header_logo_img {
