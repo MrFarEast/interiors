@@ -4,6 +4,10 @@ body {
   font-family: "Manrope";
 }
 
+.main_container {
+ max-width: 100%;
+}
+
 .header_logo_img {
   width: 126px;
   height: 21px;
