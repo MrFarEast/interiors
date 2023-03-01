@@ -20,9 +20,6 @@ body {
   
 } */
 
-
-
-
 .header_logo_img {
   width: 126px;
   height: 21px;
@@ -43,7 +40,6 @@ a:hover {
 .header_container {
   display: flex;
   justify-content: space-between;
-  width: 1180px;
   
 }
 
