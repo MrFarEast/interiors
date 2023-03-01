@@ -43,6 +43,7 @@ a:hover {
 .header_container {
   display: flex;
   justify-content: space-between;
+  max-width: 1400px;
   
 }
 
