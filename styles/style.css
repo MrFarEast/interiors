@@ -4,8 +4,15 @@ body {
   font-family: "Manrope";
 }
 
+.main_container {
+  margin: 0 auto;
+  max-width: 1400px;
+  background: #ffffff;
+  
+}
+
 .header_container {
- max-width: 1180px;
+ 
  margin: 0 auto;
 }
 
