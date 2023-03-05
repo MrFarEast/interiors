@@ -2,18 +2,15 @@
 
 body {
   font-family: "Manrope";
-  background: #F5F5F5;
-  width: 100%;
+  background: #f5f5f5;
+  /* width: 100%; */
 }
 
 .main_container {
   margin: 0 auto;
   width: 1400px;
   background: #ffffff;
-  
 }
-
-
 
 .header_logo_img {
   width: 126px;
@@ -35,7 +32,6 @@ a:hover {
 .header_container {
   display: flex;
   justify-content: space-between;
-  
 }
 
 .header_links {
@@ -126,6 +122,7 @@ h2 {
   line-height: 27px;
   letter-spacing: -0.03em;
   border: 0;
+  cursor: pointer;
 }
 
 h3 {
@@ -267,7 +264,122 @@ h3 {
 
 .see_projects:hover {
   background-color: #ad1818;
-  color:#ffffff;
+  color: #ffffff;
   text-decoration: none;
+}
 
+.services {
+  width: 1400px;
+  height: 1844px;
+  background-color: #121212;
+  position: relative;
+}
+
+.sercices_main {
+  font-family: "Manrope";
+  margin-top: 151px;
+  margin-left: 127px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: -0.03em;
+  position: absolute;
+  color: #ffffff;
+}
+
+.pencil {
+  width: 1150px;
+  height: 270px;
+  position: absolute;
+  top: 210px;
+  left: 125px;
+}
+
+.planning_solution_text {
+  font-family: "Manrope";
+  font-size: 30px;
+  line-height: 41px;
+  letter-spacing: -0.03em;
+  position: absolute;
+  color: #ffffff;
+  margin-top: 495px;
+  margin-left: 128px;
+}
+
+.design_projects_foto {
+  width: 1150px;
+  height: 270px;
+  position: absolute;
+  margin-top: 595px;
+  left: 125px;
+}
+
+.design_projects_text {
+  font-family: "Manrope";
+  font-size: 30px;
+  line-height: 41px;
+  letter-spacing: -0.03em;
+  position: absolute;
+  color: #ffffff;
+  margin-top: 881px;
+  margin-left: 128px;
+}
+
+.authors_supervision_foto {
+  width: 1150px;
+  height: 270px;
+  position: absolute;
+  margin-top: 982px;
+  left: 125px;
+}
+.authors_supervision_text {
+  font-family: "Manrope";
+  font-size: 30px;
+  line-height: 41px;
+  letter-spacing: -0.03em;
+  position: absolute;
+  color: #ffffff;
+  margin-top: 1267px;
+  margin-left: 128px;
+}
+
+.equipment {
+  width: 1150px;
+  height: 270px;
+  position: absolute;
+  margin-top: 1368px;
+  left: 125px;
+}
+
+.equipment_text {
+  font-family: "Manrope";
+  font-size: 30px;
+  line-height: 41px;
+  letter-spacing: -0.03em;
+  position: absolute;
+  color: #ffffff;
+  margin-top: 1653px;
+  margin-left: 128px;
+}
+
+.bed_foto {
+  width: 1400px;
+  height: 717px;
+  position: relative;
+}
+
+.ded_text {
+  width: 443px;
+  height: 82px;
+  position: absolute;
+  color: #ffffff;
+  left: 125px;
+  top: 6287px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 41px;
+  letter-spacing: -0.03em;
 }
