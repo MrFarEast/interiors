@@ -86,9 +86,9 @@ h2.projects__title {
   color: #121212;
 }
 
-.project__image {
+/* .project__image {
   margin-top: 30px;
-}
+} */
 
 h3.rightshore,
 h3.norway__park,
@@ -115,13 +115,13 @@ h3.pine__laces {
 }
 
 .project:first-child {
-  margin-top: 0;
+  margin-top: 30px;
 }
 
 .section-black {
   background-color: #121212;
   width: 1400px;
-  height: 2000px;
+  height: 1844px;
   margin-left: -127px;
   padding: 150px 125px 0 125px;
   margin-top: 150px;
@@ -158,9 +158,9 @@ h2.services {
   color: #ffffff;
 }
 
-.service__image {
+/* .service__image {
   margin-top: 34px;
-}
+} */
 
 h3.services__text {
   margin-top: 15px;
@@ -177,10 +177,12 @@ h3.services__text {
   margin-top: 60px;
 }
 .service:first-child {
-  margin-top: 0;
+  margin-top: 34px;
 }
 
 .bed__image {
+  width: 1400px;
+  height: 717px;
   position: absolute;
   margin-left: -127px;
   margin-top: 0;
@@ -198,5 +200,4 @@ h3.bed__text {
   line-height: 41px;
   letter-spacing: -0.03em;
   color: #ffffff;
-  
 }
